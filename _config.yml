@@ -17,10 +17,10 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Brandon Jimenez"
+description: "IT Professional - Cyber Security & System Administration"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://brandon-jimenez.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -91,9 +91,9 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Brandon Jimenez
   picture:
-  email:
+  email: brandonjimzz@gmail.com
   twitter:
   links:
     - title:
@@ -101,7 +101,7 @@ author:
       icon:
 
 # Footer Links
-footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+#footer_links:
+ # - title: Feed
+  #  url: atom.xml
+   # icon: fas fa-rss-square
