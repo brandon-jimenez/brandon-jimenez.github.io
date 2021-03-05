@@ -5,8 +5,6 @@ show_excerpts: true
 entries_layout: list
 ---
 
-# Introduction
-
 ## Links
 
 [LinkedIn Profile](https://www.linkedin.com/in/brandon-jimenez/)
