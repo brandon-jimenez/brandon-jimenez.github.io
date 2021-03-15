@@ -26,20 +26,23 @@ Experienced IT Support Specialist with a passion for System Administration and I
 ### TECHNICAL PROFICIENCIES
 
 PLATFORMS: Windows, Linux
+
 TOOLS:  Active Directory, Microsoft Office, Bomgar, ServiceNow, SSMS, SCCM, Security Onion
+
 LANGUAGES: HTML, CSS, SQL, Python
+
 SKILLS: Building Secure Environments, Data Security, Security Policies, Threat Intelligence, Vulnerability Management, Virtualization, Inventory Management, Network/System Troubleshooting
 
 ### CERTIFICATIONS
 
-CompTIA Cybersecurity Analyst+ ce
-CompTIA Security+ ce 
-CompTIA Network+ ce 
-Dell EMC Proven Professional Associate: Information Storage and Management v3
+- CompTIA Cybersecurity Analyst+ ce
+- CompTIA Security+ ce 
+- CompTIA Network+ ce 
+- Dell EMC Proven Professional Associate: Information Storage and Management v3
 
 ### PROFESSIONAL EXPERIENCE
 
-Kiewit Corporation, Omaha, NE — Technology Group Service Technician
+##### Kiewit Corporation, Omaha, NE — Technology Group Service Technician
 October 2018 - PRESENT
 
 Currently responsible for preparing and shipping PC's to Kiewit's end users based on information submitted through our internal ticket system. Focused primarily on the tactical elements of PC diagnostics, repair, and imaging. This role is also responsible for maintaining and tracking available PC inventory for a significant portion of the Kiewit Technology Group.
@@ -49,9 +52,9 @@ Currently responsible for preparing and shipping PC's to Kiewit's end users base
 - Analyzing and addressing severe hardware issues
 - Abiding to established processes for imaging and repairing computers
 - Facilitating open collaboration with inter-departmental technology teams, optimizing customer experience
-----------------------------------------------------------------------------------
 
-First Data, Omaha, NE — Contact Center Technical Specialist
+
+##### First Data, Omaha, NE — Contact Center Technical Specialist
 November 2017 - October 2018
 
 While working for First Data (now Fiserv) I was responsible for performing routine account-related transactions, solving problems and investigating/resolving a wide variety of technical issues and requests relating to point of sale systems. During my tenure I was promoted to Web Portal Payment Support due to my technical proficiency and troubleshooting ability. I also achieved and maintained the top percentile of performance metrics among my peers, including ticket closure and customer satisfaction.
@@ -62,7 +65,7 @@ While working for First Data (now Fiserv) I was responsible for performing routi
 
 ### EDUCATION
 
-Metropolitan Community College, Omaha, NE — Associate in Applied Science, Server Administration 
+##### Metropolitan Community College, Omaha, NE — Associate in Applied Science, Server Administration 
 November 2018
 
 - Prepared me to successfully implement, configure, and maintain a Windows Server
