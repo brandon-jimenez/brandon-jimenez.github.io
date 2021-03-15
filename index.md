@@ -16,7 +16,8 @@ Hello and welcome to my resume site.
 [TryHackMe Profile](https://tryhackme.com/p/darkplisken)
 
 <script src="https://tryhackme.com/badge/179064"></script>
-
+ <img src="https://tryhackme-badges.s3.amazonaws.com/darkplisken.png" alt="TryHackMe">
+ 
 ------------------------------------------------------------------------------------
 
 ### ABOUT ME
