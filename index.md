@@ -73,10 +73,10 @@ November 2018
 - Hands on experience setting up enterprise server hardware and virtualization
 
 ### PERSONAL PROJECTS
-Homelab
+##### Homelab
 
 Server rack with ubiquiti switch, patch panel running network throughout the house, additionally two linux machines running containerized services via Docker
-Homebrew KB to document design and configuration
-Home automation services
-VMs for learning Windows Server, Ubuntu, Fedora and Kali Linux
-Virtual networking and penetration testing
+- Homebrew KB to document design and configuration
+- Home automation services
+- VMs for learning Windows Server, Ubuntu, Fedora and Kali Linux
+- Virtual networking and penetration testing
