@@ -16,8 +16,7 @@ Hello and welcome to my resume site.
 [TryHackMe Profile](https://tryhackme.com/p/darkplisken)
 
 <script src="https://tryhackme.com/badge/179064"></script>
- <img src="https://tryhackme-badges.s3.amazonaws.com/darkplisken.png" alt="TryHackMe">
- 
+
 ------------------------------------------------------------------------------------
 
 ### ABOUT ME
@@ -53,7 +52,6 @@ Currently responsible for preparing and shipping PC's to Kiewit's end users base
 - Analyzing and addressing severe hardware issues
 - Abiding to established processes for imaging and repairing computers
 - Facilitating open collaboration with inter-departmental technology teams, optimizing customer experience
-
 
 ##### First Data, Omaha, NE — Contact Center Technical Specialist
 November 2017 - October 2018
