@@ -15,4 +15,4 @@ Graduate from Metropolitan Community College with a major in Server Administrati
 
 [TryHackMe Profile](https://tryhackme.com/p/darkplisken)
 
- <script src="https://tryhackme.com/badge/179064"></script>
+<script src="https://tryhackme.com/badge/179064"></script>
