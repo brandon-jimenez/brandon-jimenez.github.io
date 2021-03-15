@@ -1,0 +1,4 @@
+- name: Link Snitch
+  # You may pin to the exact commit or the version.
+  # uses: victoriadrake/link-snitch@8a12a1ad756d18c868af62fa720f299932514d63
+  uses: victoriadrake/link-snitch@v1.0.0
