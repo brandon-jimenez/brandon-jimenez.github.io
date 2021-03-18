@@ -5,7 +5,7 @@ show_excerpts: true
 entries_layout: list
 ---
 
-### Hello and welcome to my resume site.
+##### Hello and welcome to my resume site.
 
 ##### Check out my other profiles below:
 
