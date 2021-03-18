@@ -15,6 +15,7 @@ entries_layout: list
 
 <script src="https://tryhackme.com/badge/179064"></script>      
 
+
 For more information on what I do with my homelab and for a glimpse of my continued interest in system administration and cybersecurity, [click here to go to my homelab/security blog.](https://blog.outerhaven.io/)
 
 ------------------------------------------------------------------------------------
