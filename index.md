@@ -78,8 +78,13 @@ November 2018
 
 Server rack with ubiquiti switch, patch panel running network throughout the house, additionally two linux machines running containerized services via Docker
 - Homebrew KB to document design and configuration
+  - Current setup is utilizing [Material for MkDocs](https://github.com/squidfunk/mkdocs-material). Material is a design theme that is forked from [MkDocs](https://www.mkdocs.org/).
 - Home automation services
-- VMs for learning Windows Server, Ubuntu, Fedora and Kali Linux
-- Virtual networking and penetration testing
+  - Current setup is utilizing [Homebridge](https://homebridge.io/) to connect third party devices into Apple's HomeKit. Automation is being handled by Shortcuts and HomeKit. 
+- VMs for learning Windows Server, Ubuntu, Fedora and Kali Linux; virtual networking
+  - Utilizing VMware Workstation Pro in conjunction with ESXi
+- Penetration testing
+  - Utilizing primarily Kali Linux on VMWare Workstation Pro to connect and interact with boxes on [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://www.hackthebox.eu/)
+  - This also includes some python script writing and tinkering with some homebrew gadgetry 
 
 As mention above -- For more information on what I do with my homelab and for a glimpse of my continued interest in system administration and cybersecurity, [click here to go to my homelab/security blog.](https://blog.outerhaven.io/)
