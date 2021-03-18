@@ -5,8 +5,6 @@ show_excerpts: true
 entries_layout: list
 ---
 
-### Welcome to my resume site.
-
 ##### Check out my other profiles below:
 
 [LinkedIn Profile](https://www.linkedin.com/in/brandon-jimenez/)
