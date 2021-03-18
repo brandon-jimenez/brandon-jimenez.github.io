@@ -80,3 +80,5 @@ Server rack with ubiquiti switch, patch panel running network throughout the hou
 - Home automation services
 - VMs for learning Windows Server, Ubuntu, Fedora and Kali Linux
 - Virtual networking and penetration testing
+
+As mention above -- For more information on what I do with my homelab and for a glimpse of my continued interest in system administration and cybersecurity, [click here to go to my homelab/security blog.](https://blog.outerhaven.io/)
