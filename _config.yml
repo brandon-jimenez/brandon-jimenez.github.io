@@ -101,7 +101,7 @@ author:
       icon:
 
 # Footer Links
-#footer_links:
- # - title: Feed
-  #  url: atom.xml
-   # icon: fas fa-rss-square
+footer_links:
+ - title: My Github
+   url: https://github.com/brandon-jimenez
+   icon: fas fa-github
