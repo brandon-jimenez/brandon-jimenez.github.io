@@ -5,9 +5,9 @@ show_excerpts: true
 entries_layout: list
 ---
 
-Hello and welcome to my resume site.
+### Hello and welcome to my resume site.
 
-## Check out what else I do below:
+##### Check out my other profiles below:
 
 [LinkedIn Profile](https://www.linkedin.com/in/brandon-jimenez/)
 
@@ -15,7 +15,9 @@ Hello and welcome to my resume site.
 
 [TryHackMe Profile](https://tryhackme.com/p/darkplisken)
 
-<script src="https://tryhackme.com/badge/179064"></script>
+<script src="https://tryhackme.com/badge/179064"></script>      
+
+For more information on what I do with my homelab and for a glimpse of my continued interest in system administration and cybersecurity, [click here to go to my homelab/security blog.](https://blog.outerhaven.io/)
 
 ------------------------------------------------------------------------------------
 
