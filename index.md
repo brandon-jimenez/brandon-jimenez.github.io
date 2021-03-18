@@ -13,7 +13,9 @@ entries_layout: list
 
 [TryHackMe Profile](https://tryhackme.com/p/darkplisken)
 
-<script src="https://tryhackme.com/badge/179064"></script>      
+[Hack The Box Profile](https://www.hackthebox.eu/profile/394819)
+
+<script src="https://tryhackme.com/badge/179064"></script>   <script src="https://www.hackthebox.eu/badge/394819"></script>
 
 
 
