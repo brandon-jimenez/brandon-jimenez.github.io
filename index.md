@@ -6,8 +6,8 @@ entries_layout: list
 ---
 
 ##### Check out my other profiles below:
-|  |  |
-| --- | --- |
+| | |
+| -------- | ---------- |
 | [LinkedIn Profile](https://www.linkedin.com/in/brandon-jimenez/) | [A Cloud Guru Profile](https://learn.acloud.guru/profile/brandon-jimenez1) |
 | [TryHackMe Profile](https://tryhackme.com/p/darkplisken) | [Hack The Box Profile](https://www.hackthebox.eu/profile/394819) |
 <script src="https://tryhackme.com/badge/179064"></script> <script src="https://www.hackthebox.eu/badge/394819"></script>
