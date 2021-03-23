@@ -14,6 +14,9 @@ entries_layout: list
 
 For more information on what I do with my homelab and for a glimpse of my continued interest in system administration and cybersecurity, [click here to go to my homelab/security blog.](https://blog.outerhaven.io/)
 
+
+For my resume [click here](BrandonJimenez_Resume.pdf)
+
 ------------------------------------------------------------------------------------
 
 ### ABOUT ME
