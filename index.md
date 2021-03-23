@@ -72,7 +72,9 @@ November 2018
 ### PERSONAL PROJECTS
 ##### Homelab
 
-Server rack with ubiquiti switch, patch panel running network throughout the house, additionally two linux machines running containerized services via Docker
+At home, I have set up my own personal "home lab", I use these systems to learn about new technologies and practice new skills. The servers and accompanying systems are very much non-production systems, this allows me free reign on various configurations and test ideas. I use this lab to further commit to self improvement on my down time.
+
+
 - Homebrew KB to document design and configuration
   - Current setup is utilizing [Material for MkDocs](https://github.com/squidfunk/mkdocs-material). Material is a design theme that is forked from [MkDocs](https://www.mkdocs.org/).
 - Home automation services
@@ -83,4 +85,4 @@ Server rack with ubiquiti switch, patch panel running network throughout the hou
   - Utilizing primarily Kali Linux on VMWare Workstation Pro to connect and interact with boxes on [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://www.hackthebox.eu/)
   - This also includes some python script writing and tinkering with some homebrew gadgetry 
 
-As mention above -- For more information on what I do with my homelab and for a glimpse of my continued interest in system administration and cybersecurity, [click here to go to my homelab/security blog.](https://blog.outerhaven.io/)
+As mention above -- For more information on what I do with my home lab and for a glimpse of my continued interest in system administration and cybersecurity, [click here to go to my homelab/security blog.](https://blog.outerhaven.io/)
