@@ -42,7 +42,7 @@ SKILLS: Building Secure Environments, Data Security, Security Policies, Threat I
 
 ### PROFESSIONAL EXPERIENCE
 
-##### Kiewit Corporation, Omaha, NE — Technology Group Service Technician
+##### Kiewit Corporation, Omaha, NE — Technology Group Senior Service Technician
 October 2018 - PRESENT
 
 Currently responsible for preparing and shipping PC's to Kiewit's end users based on information submitted through our internal ticket system. Focused primarily on the tactical elements of PC diagnostics, repair, and imaging. This role is also responsible for maintaining and tracking available PC inventory for a significant portion of the Kiewit Technology Group.
