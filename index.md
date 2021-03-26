@@ -5,6 +5,16 @@ show_excerpts: true
 entries_layout: list
 ---
 
+##### Current Developments:
+
+March 26th, 2021 Update:
+I'm currently studying for the CompTIA PenTest+ via a combination of a guided class, self-guided study, and the TryHackMe CompTIA PenTest+ Learning Path.
+I aim to sit for the exam within the next 2 months. 
+
+I am also exploring options to get exposure/experience with SIEMs:
+- Splunk Fundamentals certification
+- Running my own Splunk instance for my home lab
+
 ##### Check out my other profiles below:
 
 | [LinkedIn Profile](https://www.linkedin.com/in/brandon-jimenez/) | [A Cloud Guru Profile](https://learn.acloud.guru/profile/brandon-jimenez1) |
