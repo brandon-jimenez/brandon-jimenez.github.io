@@ -9,6 +9,7 @@ entries_layout: list
 
 March 26th, 2021 Update:
 I'm currently studying for the CompTIA PenTest+ via a combination of a guided class, self-guided study, and the TryHackMe CompTIA PenTest+ Learning Path.
+
 I aim to sit for the exam within the next 2 months. 
 
 I am also exploring options to get exposure/experience with SIEMs:
